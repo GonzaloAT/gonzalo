@@ -7,3 +7,5 @@ Given('I open Google page', () => {
 Then('I see "Google" in the title', () => {
     cy.log("Hola")
   })
+
+  
